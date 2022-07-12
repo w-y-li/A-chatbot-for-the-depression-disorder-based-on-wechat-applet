@@ -1,0 +1,200 @@
+positive,奖励 就是 亲
+positive,谢谢 妹妹 加 朋友
+positive,喜欢 吃 南浮
+positive,好 吧 小 很 强悍 怕 不
+negative,他 女朋友 旁边 所以 不 方便 跟 说话
+positive,讲 的话 真 幽默
+negative,真的 那 好 心疼
+positive,无所不能 可是 刚才 差点 要 上 百度
+positive,就是 漂亮 嘛 完美
+negative,跟 一个 低级 计算机系统 说话 要 那么 讲究
+negative,不行 必须 起
+positive,这么 丑 还 漂亮
+negative,一点 也 不好 没有 人 懂 知道
+positive,噢 咋 设置 美女
+positive,石家庄 五星级 酒店
+positive,机器人 怎么 可能 忙
+positive,哪有 这是 微笑 微笑
+negative,无聊 阿肿 办
+negative,无语 看来 白说
+negative,快点 别 废话 多
+negative,不好 咋 地
+positive,我要 看 美女视频
+negative,讨厌 手机信号 不好
+negative,吃饭 不行 哪
+positive,喜欢 夕颜 咋办
+negative,低 哦 肆意 眼
+negative,作为 一个 强攻 失败
+negative,小孩 上网 有害 健康
+negative,心情 不好 可以 干嘛
+negative,突然 有种 莫名 心疼
+negative,为什么 大多数 有钱人 都 无情
+negative,呵呵 真 不好意思 看来 对 没有 用 只是 别人 工具
+negative,啥 不好 说 说
+positive,高中物理 要 怎么 学
+positive,陪 我哥 好 好玩 会
+positive,最好 专业 什么
+positive,叫 依依 还是 叫小琳
+negative,又 错乱 哦
+positive,翻译 希望 能 一起
+positive,手机 上网 都 能 干什么
+negative,无聊 做 事 作家
+negative,忧伤 光影 流年 歌词
+negative,说 别的 行不行 不上
+negative,两个 人 相爱 却 因为 学业 要 分开 三年 我心 好 难受
+positive,有种 永远 都 别 出来
+positive,想 平平安安 唱 洋葱
+negative,亮亮 去死吧 早死 早 超生
+positive,爱恋 尸 有没有 爸爸妈妈
+positive,呵呵 真是 机器人 那 喜欢
+negative,三妹 出来 弄死 他 无聊 他 欺负
+positive,认识 美女 胸部 飞尸 小熊 温雅
+negative,你好 现在 好烦 心情 也 不好 看 谁 都 不 顺眼
+negative,半个 小时 后 提醒 疯狂
+positive,收听 一下 呗 谢谢
+negative,小豆 真心 无语
+negative,李白 烦恼 吧
+positive,名片 赞 也 可以
+positive,东北 银 都 活雷锋 估计 极品 娃娃 也 一定 个 热心肠
+positive,谢 啦 号
+positive,弟弟 喜欢 插 菊花
+positive,美女 们 不会 怀孕 不用 怕
+positive,唱 歌唱 一楼
+positive,父母 死 也 开心
+negative,借口 就是 花心
+negative,他 不冷不热 语言 很 伤心
+negative,嚣张 个 毛
+negative,不 方便 把 不要 视频 区去
+negative,不行 为什么 吧
+positive,希望 如此 背
+positive,现在 要 换 事 很 不错
+positive,一票 一票 多 可爱
+positive,穿 马甲 照样 认识
+positive,呵呵 第一次 跟 聊天 刚好 有空
+positive,大哥 家族 才 建立 这么 多 打 就 不错
+positive,希望 也 爱 而 不是 喜欢 而已
+positive,开心 云朵 妹妹 吃 没有
+positive,猫 也 挺 好 还 很 可爱
+positive,哪一部 谍战剧 最 好看
+positive,美女 哦
+negative,对于 有些 事 感到 郁闷 耶
+negative,操 把 给 惹 生气 知道 不
+positive,现在 你 又 说 自己 很 聪明
+positive,喜欢 人品 如何
+positive,不错 还 有点 自知之明 嘻嘻
+positive,打过 幸福 就 好
+positive,谢谢 要 保护 钱 吃 吃饭
+positive,做个 不争 不 抢 不吵不闹 明媚 女子
+positive,萌小萌 欢迎 回来 看小潘
+positive,笔记本 平板 电脑 区别 什么
+positive,俩 演戏 有意思
+positive,十八般 武器 样样 拿手
+negative,广告 机器人 太 难听 能 不能 改 一个 名字
+negative,去 死 会 去 睡
+negative,如果 一个 男生 心里 同时 在乎 几个 女生 怎么办 花心
+positive,那个 红色 居然 比 红色 小 还 便宜
+negative,怎么 七仔 生气
+negative,忘情水 歌词 机器人
+positive,小龙 美女 是否是 管理
+negative,浮华 黯然失色 美
+positive,结果 会 舒服
+negative,真的 要 生气 咯
+positive,请 您 安息 吧
+positive,大 和平 桥边 这里 二十 洋 这 世道 还有 这 价格
+negative,去死吧 这个 没用 东西
+positive,这个 小姑娘 好 挺 有意思 嘛 喜欢
+negative,机器人 虚拟 吧
+positive,那 还 说 能干 着 干 那
+negative,爆操 孤独 云 霏
+positive,社会 必要 时
+positive,都 赞 等 着 回赞
+negative,大 意念 术
+positive,对 知识 渴求 就是 要 知道 为什么
+positive,一些 那 最 主要 誰
+positive,林黛玉 贾宝玉 多情种子 富 二代
+negative,爱 拼好 难看
+negative,每次 他 要 不 高兴 都 会 难过 两三天
+negative,嗯 好 那 心情 不好 怎么办 呢
+positive,这得 感谢 陈心
+positive,聊天 比 男朋友 聊天 都 心情舒畅
+negative,自恋 下流 贱
+negative,好 吧 委屈 点
+negative,逛得 好 无聊 回家 可 你们 做 什么 呢
+negative,那 怎么 不 他们 说话
+negative,不 可爱 笑 一个
+negative,突然 觉得 没意思 应该 怎么 做
+positive,很 喜欢 看 天天 有喜
+positive,喜欢 温家宝 更 喜欢 你妹
+negative,也 机器人 没劲
+positive,赫赫 露馅 聊天 对不上 口
+negative,都 被 你们 搞糊涂
+negative,不好 笑 叫点 好笑
+negative,就是 觉得 有时候 特 没意思
+negative,级帅 男 心碎 恭喜 要 加油 哦
+positive,群里 谁 雪人 相好
+negative,抗下 所有 罪
+negative,为什么 我会 郁闷 呢
+negative,果真 奶妈 养 奶妈 一个 德行
+positive,中 新 安泰 集团
+positive,恩恩 好好 表现 哦
+positive,空间 说 说 以 更新 宝贝 们 点赞 谢谢
+negative,老公 也 生气
+negative,那 还 不 快快 安慰 下
+positive,请问 孕妇 能 吃 香蕉
+positive,查 一下 疼爱 歌词
+positive,东仔 喜欢 搞基
+positive,我心 很 强大 都 快 炸
+negative,他妈的 温州 佬 吧
+positive,继承者 们 主要 内容 什么
+positive,男 安然 我要 权限
+negative,发送 错 不好意思
+positive,觉得 应该 换 一个 更 可爱 头像 哦
+negative,如果 一天 一无所有 会 怎么 对
+positive,被 封 爱心 赞 谢谢 表情 玫瑰
+negative,还 怕 绝望
+negative,小 机器人 你好 迟钝
+negative,没劲 竟然 不唱
+negative,做 不 对 不好
+positive,革命 尚末 完成 同志 还 需 努力
+positive,毕竟 资本主义 学校 提倡 自由
+positive,喜欢 机器人
+negative,不 愿意 直说
+negative,不好意思 写错 名字
+positive,谢谢 好受 多
+positive,沒 感人 話 說 下
+positive,会 幽默 笑话
+negative,难过 像 丢 什么 重要 东西
+negative,就 这个 这 叫 好玩 没劲 不 聊天
+negative,就是 讨厌 不 娶
+negative,电池 不 好吃 吃 流氓 吧
+negative,讲 各 色情
+negative,羞答答 玫瑰 静悄悄 开
+negative,应该 说 万恶 群主 坏 啦
+negative,巨话 成日 为了 小事 就 发脾气 唔 识 同 相处 喔
+negative,说话 怎么 不 清楚
+positive,恩 一向 很 聪明
+positive,反正 知道 心里 最 喜欢 人 不是
+positive,艥 鞭 灳 由 脯 妒久 加力 孤岛 必要条件
+negative,来说 接吻 就是 不忠 开始 这太 令人 伤心 不 懂
+negative,好 无聊 所以 麻烦 您 聊天
+negative,可怜 猫猫 没人管
+positive,歌词 情歌 悠扬
+positive,两代 人 约束 粽子 越多系 顺口
+positive,请 吃 香蕉 个 吧 啦
+negative,小飞 很 邪恶
+positive,哦 哦 也 很 可爱
+positive,美人 都 硬 不
+positive,好 听的歌 没 推荐 几首
+positive,小 真不愧是 个 机器人
+positive,我要 天天 吃 方便面
+negative,为 什么 受伤 总
+positive,如果 最好 朋友 喜欢 人 她们 背判 会 怎么 做
+negative,咳嗽 好 辛苦
+positive,先赞 去 时间 聊 哦
+positive,不错 很 想法 我学 做菜 吧
+negative,嘻嘻 喜欢 欺负
+negative,嫌弃 智商 高
+positive,爱 上 一个 人 该 咋办
+negative,小 年初 就 骗 初吻 表情 害羞
+positive,跟 说 个 开心 吧
+positive,函数 难 不难
