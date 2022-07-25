@@ -8,7 +8,7 @@ Come on!
 ## Developing Enviroment
 ### Text emation analysis:
 1. Python 3.6.8
-    1. tensorflow2.0
+    1. tensorflow1.4
     2. modeling
     3. os
     4. csv
