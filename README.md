@@ -8,12 +8,10 @@ Come on!
 ## Developing Enviroment
 ### Text emation analysis:
 1. Python 3.6.8
-    1. tensorflow1.4
-    2. modeling
+    1. paddlehub
+    2. paddle
     3. os
     4. csv
-    5. collections
-2. You need download chinese_L-12_H-768_A-12 model on your computer
 ### Automatic dialog module:
 1. Python 3.6.8
     1. tensorflow2.0
