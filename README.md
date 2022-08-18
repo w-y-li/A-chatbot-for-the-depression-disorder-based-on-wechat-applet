@@ -8,8 +8,8 @@ Come on!
 ## Developing Enviroment
 ### Text emation analysis:
 1. Python 3.6.8
-    1. paddlehub
-    2. paddle
+    1. paddlepaddle 2.3.1
+    2. numpy 1.19.3
     3. os
     4. csv
 ### Automatic dialog module:
