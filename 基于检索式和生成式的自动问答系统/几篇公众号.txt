@@ -1,0 +1,3 @@
+检索式对话情感回复：https://mp.weixin.qq.com/s/Ut7cEUbx-gQ5oSCmehvPJQ
+生成式与检索式对话系统的融合之道：https://mp.weixin.qq.com/s/IQoVHPa0MFaOumXH3B7BwQ
+具备上下文语境知识感知的开放域对话生成：https://mp.weixin.qq.com/s/vh3JO9B_zWeLTvowLOMrGg
