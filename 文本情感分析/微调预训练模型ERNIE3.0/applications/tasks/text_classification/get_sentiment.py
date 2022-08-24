@@ -19,8 +19,5 @@ def get_results(filepath):#-1为负向情感，0为中性，1为正向情感
                 result.append({'sentiment':1, 'degree':f[i][1][2][:-1]})
     return result
 
-def main():
+def get_prediction():#一定要先运行此函数获取预测结果
     run_infer.main(args)
-    filepath=r"output\predict_result.txt"
-    cls_degree=get_results(filepath)
-    return cls_degree
