@@ -53,7 +53,7 @@ def parse_predict_result(predict_result, sample_list, params_dict):
     return return_list
 
 
-if __name__ == "__main__":
+def main(args):
     args = args.build_common_arguments()
     log.init_log("./log/test", level=logging.DEBUG)
     # 分类任务的预测
@@ -73,4 +73,4 @@ if __name__ == "__main__":
     inference.inference_batch()
 
     logging.info("os exit.")
-    os._exit(0)
+

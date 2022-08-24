@@ -1,0 +1,53 @@
+INFO: 08-24 15:02:11: params.py:44 * 17196 ./examples/cls_ernie_fc_ch_infer.json
+INFO: 08-24 15:02:11: params.py:53 * 17196 {
+    "dataset_reader": {
+        "predict_reader": {
+            "config": {
+                "batch_size": 32,
+                "data_path": "./data/predict_data",
+                "epoch": 1,
+                "need_data_distribute": false,
+                "need_generate_examples": true,
+                "sampling_rate": 1.0,
+                "shuffle": false
+            },
+            "fields": [
+                {
+                    "data_type": "string",
+                    "embedding": null,
+                    "max_seq_len": 128,
+                    "name": "text_a",
+                    "need_convert": true,
+                    "padding_id": 0,
+                    "reader": {
+                        "type": "ErnieTextFieldReader"
+                    },
+                    "tokenizer": {
+                        "params": null,
+                        "split_char": " ",
+                        "type": "FullTokenizer",
+                        "unk_token": "[UNK]"
+                    },
+                    "truncation_type": 0,
+                    "vocab_path": "../../models_hub/ernie_3.0_base_ch_dir/vocab.txt"
+                }
+            ],
+            "name": "predict_reader",
+            "type": "BasicDataSetReader"
+        }
+    },
+    "inference": {
+        "PADDLE_PLACE_TYPE": "cpu",
+        "extra_param": {
+            "meta": {
+                "job_type": "text_classification"
+            }
+        },
+        "inference_model_path": "./output/cls_ernie_3.0_base_fc_ch_dy/save_inference_model/inference_step_1000/",
+        "num_labels": 3,
+        "output_path": "./output/predict_result.txt",
+        "thread_num": 2,
+        "type": "CustomInference"
+    }
+}
+WARNING: 08-24 15:02:11: register.py:25 * 17196 Key WordsegTokenizer already in registry tokenizer.
