@@ -1,0 +1,26 @@
+
+### text_sentiment_analysis
+
+
+get_results https://120.25.160.191:{端口}/usr/local/ChatbotModel/text_sentiment_analysis_model/ERNIE/applications/tasks/text_classification
+参数：{
+	filepath：预测结果保存路径，一般为：r"output\predict_result.txt"
+}
+响应：{
+	code：200
+	data：{
+		result：各句所属情感类别及程度,格式为字典列表
+}
+}
+
+get_prediction https://120.25.160.191:{端口}/usr/local/ChatbotModel/text_sentiment_analysis_model/ERNIE/applications/tasks/text_classification
+参数：{
+	name1:待预测句子（实际上不在此处作为直接输入的参数）
+	name2:训练的情感分类模型路径（实际上不在此处作为直接输入的参数）
+}
+响应：{
+	code：200
+	data：{
+		name1：各句所属情感类别及程度的txt文件，一般位于 output\predict_result.txt
+}
+}
