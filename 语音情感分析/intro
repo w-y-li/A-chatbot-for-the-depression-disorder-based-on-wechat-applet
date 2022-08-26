@@ -1,0 +1,8 @@
+# 本模块基于MFCC特征提取＋SVM进行语音情感识别
+数据集使用中科大的casia，6种情感，分别为angry, fear, happy, neutral, sad, surprise。共包含1200条数据。
+目前最好的识别率为59%，C=10，MFCC特征个数为48。
+训练模型请使用trian.py或SVM.py
+可在realTimeAnalysis.py中对自己的录音进行实时情感分析。
+
+# 当前存在的问题
+由于没有用完整的casia数据库进行训练，仅仅找到了1200条数据。数据量的不足导致了模型的准确度不高。
