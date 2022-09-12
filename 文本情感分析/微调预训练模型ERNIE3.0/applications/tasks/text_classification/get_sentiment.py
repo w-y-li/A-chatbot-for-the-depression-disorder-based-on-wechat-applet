@@ -12,11 +12,11 @@ def get_results(filepath):#-1为负向情感，0为中性，1为正向情感
             cls2 = f[i][1].split(',')[1]
             cls3 = f[i][1].split(',')[2][:-1]
             if (float(cls1) > float(cls2) and float(cls1) > float(cls3)):
-                result.append({'sentiment':-1, 'degree':f[i][1][0][1:]})
+                result.append({'sentiment':-1, 'degree':cls1})
             elif (float(cls2) > float(cls1) and float(cls2) > float(cls3)):
-                result.append({'sentiment': 0, 'degree': f[i][1][1]})
+                result.append({'sentiment': 0, 'degree': cls2})
             else:
-                result.append({'sentiment':1, 'degree':f[i][1][2][:-1]})
+                result.append({'sentiment':1, 'degree':cls3})
     return result
 
 def get_prediction():#一定要先运行此函数获取预测结果
