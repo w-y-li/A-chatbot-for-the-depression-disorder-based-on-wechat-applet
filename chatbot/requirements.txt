@@ -1,0 +1,16 @@
+transformers==4.2.0
+torch==1.9.0
+sklearn~=0.0.post4
+tqdm~=4.65.0
+numpy~=1.24.3
+scipy==1.4.1
+tensorboard
+urllib==1.25.11
+openai~=0.27.6
+tokenizers~=0.9.4
+pandas~=1.2.4
+jieba~=0.42.1
+gensim~=4.3.1
+matplotlib~=3.5.1
+six~=1.16.0
+sentencepiece~=0.1.99
